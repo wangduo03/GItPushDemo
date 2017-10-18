@@ -20,6 +20,8 @@
     NSLog(@"init commit");
     
     NSLog(@"add dev br");
+    
+    NSLog(@"add dev commit");
 }
 
 
