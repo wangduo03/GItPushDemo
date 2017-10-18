@@ -20,6 +20,8 @@
     NSLog(@"init commit");
     
     NSLog(@"add commit on master");
+    
+    NSLog(@"add commit on stage");
 }
 
 
