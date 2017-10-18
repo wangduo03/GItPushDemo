@@ -22,6 +22,8 @@
     NSLog(@"add commit on master");
     
     NSLog(@"add commit on stage");
+    
+    NSLog(@"add commit on stage 2");
 }
 
 
