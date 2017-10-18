@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"init commit");
+    
+    NSLog(@"add dev br");
 }
 
 
