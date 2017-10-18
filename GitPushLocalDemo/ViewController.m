@@ -22,7 +22,10 @@
     NSLog(@"add dev br");
     
     NSLog(@"add dev commit");
+    
+    NSLog(@"add dev commit 2");
 }
+
 
 
 - (void)didReceiveMemoryWarning {
